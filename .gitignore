@@ -1,0 +1,3 @@
+env
+.env
+#This file is to indicate that we do not want to push .env file of this folder into git ZZ
